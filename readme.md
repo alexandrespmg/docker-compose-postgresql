@@ -1,6 +1,6 @@
 # Docker Compose to setup postgresql and pgAdmin4
 
-Use this to setup fast aa postgresql and pgAdmin4 environment.
+Use this to setup fast a postgresql and pgAdmin4 environment.
 
 ## Getting Started
 
